@@ -8,7 +8,12 @@
 Jan
 - https://github.com/janhq/jan/
 - open source platform for running models
-
+```
+# Install Jan using AppImage
+chmod +x jan-linux-x86_64-{version}.AppImage
+./jan-linux-x86_64-{version}.AppImage
+# where jan-linux-x86_64-{version}.AppImage is path to the Jan package
+```
 LM Studio 
 - https://lmstudio.ai/
 - NOT open source (?)
