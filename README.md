@@ -16,6 +16,7 @@ LM Studio
 local.ai
 - https://www.localai.app/
 - (maybe many products with similar name)
+- https://github.com/louisgv/local.ai
 
 AvaPLS (?)
 - https://github.com/cztomsik/ava
