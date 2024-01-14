@@ -28,6 +28,12 @@ AvaPLS (?)
 # R.A.G. Projects
 -
 
+
+# Technologies
+
+Mamba
+- https://www.youtube.com/watch?v=ouF-H35atOY
+
 # Articles
 
 https://kleiber.me/blog/2024/01/07/six-ways-running-llm-locally/
