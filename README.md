@@ -25,14 +25,16 @@ AvaPLS (?)
 
 
 
-# R.A.G. Projects
+# R.A.G. Tools & Projects
 -
 
 
 # Technologies
 
-Mamba
+Mamba & SSM
 - https://www.youtube.com/watch?v=ouF-H35atOY
+- Dec 2023, https://arxiv.org/abs/2312.00752
+
 
 # Articles
 
