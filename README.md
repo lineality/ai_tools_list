@@ -45,3 +45,6 @@ https://kleiber.me/blog/2024/01/07/six-ways-running-llm-locally/
 4. GPT4All
 5. LM Studio
 6. vLLM
+
+local vs. cloud
+- https://www.youtube.com/watch?v=H91PyQjuw2Y
