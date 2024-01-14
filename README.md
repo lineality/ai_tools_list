@@ -5,9 +5,9 @@
 # UI Projects
 
 
-Jan
+Jan: open source platform for running models
 - https://github.com/janhq/jan/
-- open source platform for running models
+- https://jan.ai/install/linux/ ->
 ```
 # Install Jan using AppImage
 chmod +x jan-linux-x86_64-{version}.AppImage
