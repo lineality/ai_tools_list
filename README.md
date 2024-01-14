@@ -13,9 +13,14 @@ LM Studio
 - https://lmstudio.ai/
 - NOT open source (?)
 
+local.ai
+- https://www.localai.app/
+- (maybe many products with similar name)
+
 AvaPLS (?)
 - https://github.com/cztomsik/ava
 - use: unclear
+- (many products with similar name)
 
 
 # Articles
