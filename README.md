@@ -53,3 +53,8 @@ https://kleiber.me/blog/2024/01/07/six-ways-running-llm-locally/
 
 local vs. cloud
 - https://www.youtube.com/watch?v=H91PyQjuw2Y
+
+Mamba Walkthrough
+- https://www.linkedin.com/in/ujamil/
+- https://www.youtube.com/@umarjamilai
+- https://www.youtube.com/watch?v=8Q_tqwpTpVU
